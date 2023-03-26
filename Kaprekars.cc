@@ -59,11 +59,6 @@ int main(){
 		cout<<"INVALID INPUT";
 		return 0;
 	}
-
-	if(num<1 || num>9998){
-		cout<<"INVALID INPUT";
-		return 0;
-	}
 	
 	do{
 		int digits[4], ascn[4], desc[4];
